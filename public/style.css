@@ -1,0 +1,43 @@
+body {
+  background-color: #7F95D1;
+}
+
+ul {
+  padding-top: 100px;
+  text-align: center;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 50px;
+  font-family: "Georgia"
+}
+
+li {
+  padding: 20px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #FFEBE7;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #FF82A9;
+}
+
+p {
+  padding-top: 225px;
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Mansalva';
+}
